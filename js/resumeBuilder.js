@@ -148,6 +148,12 @@ var projects = {
             dates: "2017",
             description: "根据一个基于Web的RSS反馈阅读应用程序编写Jasmine测试套件",
             url: "https://github.com/eruerua/feedRead"
+        },
+        {
+            title: "云端记账应用",
+            dates: "2017",
+            description: "利用野狗wilddog实时通信引擎实现云端记账应用",
+            url: "https://github.com/eruerua/mybill"
         }
     ],
     display: function() {
