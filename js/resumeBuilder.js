@@ -128,31 +128,31 @@ var projects = {
     projects: [{
             title: "前端纳米学位街机游戏克隆项目",
             dates: "2017",
-            description: "根据得到的可视化资源和游戏循环引擎，然后通过向游戏添加一系列实体（包括玩家角色和敌人），以重新创建经典街机游戏“青蛙过河”。",
+            description: "根据得到的可视化资源和游戏循环引擎，然后通过向游戏添加一系列实体（包括玩家角色和敌人），以重新创建经典街机游戏“青蛙过河”。学习JavaScript面向对象的编程功能。",
             url: "https://github.com/eruerua/ArcadeGameClone"
         },
         {
             title: "前端纳米学位网站优化",
             dates: "2017",
-            description: "优化提供的具有各种优化及性能相关问题的网站，使其达到目标的PageSpeed分数，并以60帧/秒的速度运行。",
+            description: "优化提供的具有各种优化及性能相关问题的网站，使其达到超过90分的PageSpeed分数，并以60帧/秒的速度运行。学习关键渲染路径、浏览器接收HTML/CSS和JavaScript 的流程以及将其转换为所呈现像素的所需处理。",
             url: "https://github.com/eruerua/frontend-nanodegree-mobile-portfolio"
         },
         {
             title: "前端纳米学位街区地图",
             dates: "2017",
-            description: "开发一个具有你所在区域或想访问的区域的地图的单页应用程序。然后，为此地图添加其他功能，包括突出显示的地点、有关这些地点的第三方数据以及浏览内容的不同方式。",
+            description: "开发一个纽约曼哈顿区域地图的单页应用程序。然后，为此地图添加其他功能，包括突出显示的地点、有关这些地点的第三方数据以及浏览内容的不同方式，并学习设计模式如何帮助开发易于管理的代码库，使用了googleMap api和knockout js。",
             url: "https://github.com/eruerua/streetMap"
         },
         {
             title: "前端纳米学位RSS阅读器测试",
             dates: "2017",
-            description: "根据一个基于Web的RSS反馈阅读应用程序编写Jasmine测试套件",
+            description: "根据一个基于Web的RSS反馈阅读应用程序编写Jasmine测试套件，测试应用在不同状况下的响应。学习如何使用 Jasmine 针对预先存在的应用程序编写多种测试。测试内容包括应用程序的底层业务逻辑、事件处理和DOM操作。",
             url: "https://github.com/eruerua/feedRead"
         },
         {
             title: "云端记账应用",
             dates: "2017",
-            description: "利用野狗wilddog实时通信引擎实现云端记账应用",
+            description: "利用野狗wilddog实时通信引擎实现云端记账应用。其中包括用户登录，验证，操作等功能。",
             url: "https://github.com/eruerua/mybill"
         }
     ],
